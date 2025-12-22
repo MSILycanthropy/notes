@@ -12,7 +12,7 @@ Mostly programming stuff: projects I'm tinkering with, problems I've solved (or 
 
 These aren't polished blog posts. They're working notes—some complete, some half-formed, some probably wrong. Imagine you are stumbling through my workshop. All the WIP and flaws are visible.
 
-There's currently _nothing_ here. But, expect that to change shortly.
+To be clear, most of what is here will not be complete ideas. It'll be short, informal rambling. Feel free to talk to me about any clarification stuff if you know me. If you don't.. uh don't contact me, thanks.
 
 ## About me
 
